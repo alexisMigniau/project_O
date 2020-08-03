@@ -72,3 +72,5 @@ unreal/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 unreal/DerivedDataCache/*
+
+unreal/unreal.uproject
