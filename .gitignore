@@ -74,3 +74,5 @@ unreal/Plugins/*/Intermediate/*
 unreal/DerivedDataCache/*
 
 unreal/unreal.uproject
+
+unreal/Content/TopDownBP/Blueprints/TopDownController.uasset
